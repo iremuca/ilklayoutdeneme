@@ -1,0 +1,28 @@
+body{
+    background-color: aliceblue;
+}
+div{
+    background-color: aliceblue;
+    height:49vh;
+    width: 32%;
+    margin:2px;
+    float: left;
+}
+div.kirmizi{
+    background-color: red;
+}
+div.pembe{
+    background-color: pink;
+}
+div.sari{
+    background-color: yellow;
+}
+div.mor{
+    background-color: purple;
+}
+div.mavi{
+    background-color: blue;
+}
+div.siyah{
+    background-color: black;
+}
